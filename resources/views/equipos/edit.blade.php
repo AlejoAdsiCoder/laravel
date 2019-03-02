@@ -1,0 +1,1 @@
+<h1>Editar equipo {{$id}}</h1>
